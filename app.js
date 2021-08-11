@@ -1,9 +1,3 @@
-
-
-
-
-
-
 // Event listener
 const dogBtn = document.getElementById('dog-btn').addEventListener('click', getDogs);
 let output = document.getElementById('imageInsert');
